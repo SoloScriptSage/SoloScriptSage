@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vladyslav Hirchuk</h1>
+<h1 align="center">Hi, I'm Vladyslav Hirchuk</h1>
 <h3 align="center">A software developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soloscriptsage&label=Profile%20views&color=0e75b6&style=flat" alt="soloscriptsage" /> </p>
