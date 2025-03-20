@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI-Powered Real-Time Monitoring & Automation System**
 
-- 🌱 I’m currently learning **Algorithms and Data Structures**
+- 🌱 I’m currently learning **Machine Learning and Neural Networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SoloScriptSage?tab=repositories](https://github.com/SoloScriptSage?tab=repositories)
 
