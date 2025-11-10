@@ -3,7 +3,7 @@
 
 - I’m currently working on [Meta Ray-Ban Display AI glasses Zuckerberg Did](https://github.com/SoloScriptSage/rayband-voice-cam)
 
-- All of my projects are available at [https://github.com/SoloScriptSage?tab=repositories](https://github.com/SoloScriptSage?tab=repositories)
+- All of my projects are available at [My Portfolio](https://soloscriptsage.github.io/)
 
 - How to reach me **hirchukv@gmail.com**
 
