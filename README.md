@@ -19,7 +19,6 @@ Embedded engineer with commercial end-to-end experience — PCB design, firmware
 - 🚁 Shipped a **drone fuel sensor** — KiCad PCB, FreeRTOS/ESP32-C3, CAN 2.0B, OTA, ±3% accuracy
 - 🗺️ **LiDAR + IMU SLAM** on ARM64 edge compute with ROS2
 - 🌐 Contributed to a full-stack **DJI drone fleet platform** used in live field ops
-- 📍 Olsztyn, Poland · Open to new opportunities
 
 ---
 
