@@ -1,4 +1,4 @@
-<img src="assets/banner-dark.png" alt="C++ / Bazel / 5G / Embedded">
+<img src="assets/banner-dark-v2.png" alt="C++ / Bazel / 5G / Embedded">
 
 # Hi, I'm Vlad
 
