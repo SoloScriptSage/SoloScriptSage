@@ -1,4 +1,4 @@
-![C++ / Bazel / 5G / Embedded](assets/banner.png)
+<img src="assets/banner-dark.png" alt="C++ / Bazel / 5G / Embedded">
 
 # Hi, I'm Vlad
 
@@ -11,36 +11,36 @@ I started in competitive programming, and I still care most about code that is f
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/SoloScriptSage/robotic-hand-esp32"><img src="assets/robotic-hand-v2-thumbnail.png" alt="Robotic Hand v2"></a>
+<a href="https://github.com/SoloScriptSage/robotic-hand-esp32"><img src="assets/robotic-hand-v2-dark.png" alt="Robotic Hand v2"></a>
 <br><b><a href="https://github.com/SoloScriptSage/robotic-hand-esp32">Robotic Hand v2</a></b><br>
 Wireless prosthetic hand, my bachelor's thesis. ESP32, ESP-NOW, Kalman filter and PID per finger, two custom KiCad boards, web dashboard.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/SoloScriptSage/PeakMode"><img src="assets/peakmode-thumbnail.png" alt="PeakMode"></a>
+<a href="https://github.com/SoloScriptSage/PeakMode"><img src="assets/peakmode-dark.png" alt="PeakMode"></a>
 <br><b><a href="https://github.com/SoloScriptSage/PeakMode">PeakMode</a></b><br>
 Windows gaming performance optimizer. Native C++ core with NVAPI and the Win32 API, C# WPF tray app, full restore on toggle-off.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/SoloScriptSage/winapi-system-monitor"><img src="assets/winapi-system-monitor-thumbnail.png" alt="WinAPI System Monitor"></a>
+<a href="https://github.com/SoloScriptSage/winapi-system-monitor"><img src="assets/winapi-system-monitor-dark.png" alt="WinAPI System Monitor"></a>
 <br><b><a href="https://github.com/SoloScriptSage/winapi-system-monitor">WinAPI System Monitor</a></b><br>
 Real-time CPU, memory and process monitor in C++, built on direct Win32 calls with no frameworks.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/SoloScriptSage/robotic-hand-project"><img src="assets/robotic-hand-v1-thumbnail.png" alt="Robotic Hand v1"></a>
+<a href="https://github.com/SoloScriptSage/robotic-hand-project"><img src="assets/robotic-hand-v1-dark.png" alt="Robotic Hand v1"></a>
 <br><b><a href="https://github.com/SoloScriptSage/robotic-hand-project">Robotic Hand v1</a></b><br>
 The first version: Arduino Nano, nRF24L01 radio link, five MG996R servos and a flex-sensor glove.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/SoloScriptSage/Digispark-USB"><img src="assets/digispark-usb-thumbnail.png" alt="Digispark-USB"></a>
+<a href="https://github.com/SoloScriptSage/Digispark-USB"><img src="assets/digispark-usb-dark.png" alt="Digispark-USB"></a>
 <br><b><a href="https://github.com/SoloScriptSage/Digispark-USB">Digispark-USB</a></b><br>
 Custom ATtiny85 USB development board, designed in KiCad.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/SoloScriptSage/Digital-Dice"><img src="assets/digital-dice-thumbnail.png" alt="Digital Dice"></a>
+<a href="https://github.com/SoloScriptSage/Digital-Dice"><img src="assets/digital-dice-dark.png" alt="Digital Dice"></a>
 <br><b><a href="https://github.com/SoloScriptSage/Digital-Dice">Digital Dice</a></b><br>
 555 timer, counter and 7-segment decoder on a custom PCB.
 </td>
